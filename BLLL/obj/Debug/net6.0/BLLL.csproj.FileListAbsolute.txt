@@ -1,0 +1,72 @@
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\bin\Debug\net6.0\BLLL.deps.json
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\bin\Debug\net6.0\BLLL.dll
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\bin\Debug\net6.0\BLLL.pdb
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\bin\Debug\net6.0\DAL.dll
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.AssemblyReference.cache
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfoInputs.cache
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfo.cs
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.CoreCompileInputs.cache
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.CopyComplete
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.dll
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\refint\BLLL.dll
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.pdb
+C:\Users\חני ויסבלום\source\repos\Recepies\BLLL\obj\Debug\net6.0\ref\BLLL.dll
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\BLLL.deps.json
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\BLLL.dll
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\BLLL.pdb
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\DAL.dll
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\Dto.dll
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\DAL.pdb
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\Dto.pdb
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.AssemblyReference.cache
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfoInputs.cache
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfo.cs
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.CoreCompileInputs.cache
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.CopyComplete
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.dll
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\refint\BLLL.dll
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.pdb
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\ref\BLLL.dll
+Z:\repos\Recepies\BLLL\bin\Debug\net6.0\BLLL.runtimeconfig.json
+Z:\repos\Recepies\BLLL\obj\Debug\net6.0\BLLL.genruntimeconfig.cache
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.deps.json
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.runtimeconfig.json
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.dll
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.pdb
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\DAL.dll
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\Dto.dll
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\DAL.pdb
+Z:\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\Dto.pdb
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.AssemblyReference.cache
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfoInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfo.cs
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.CoreCompileInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.CopyComplete
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.dll
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\refint\BLLL.dll
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.pdb
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.genruntimeconfig.cache
+Z:\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\ref\BLLL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.deps.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.runtimeconfig.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\BLLL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\DAL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\Dto.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\DAL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\bin\Debug\net6.0\Dto.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.AssemblyReference.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfoInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.AssemblyInfo.cs
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.CoreCompileInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.csproj.Up2Date
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\refint\BLLL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\BLLL.genruntimeconfig.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\BLLL\obj\Debug\net6.0\ref\BLLL.dll

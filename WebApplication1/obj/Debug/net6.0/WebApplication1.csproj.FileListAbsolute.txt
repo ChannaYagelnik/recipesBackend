@@ -1,0 +1,139 @@
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\appsettings.json
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\BLLL.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\DAL.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Dto.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\BLLL.pdb
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\DAL.pdb
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Dto.pdb
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+Z:\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\BLLL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\DAL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Dto.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\BLLL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\DAL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\bin\Debug\net6.0\Dto.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebAppli.7D14BD69.Up2Date
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll

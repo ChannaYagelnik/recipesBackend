@@ -1,0 +1,51 @@
+Z:\repos\Recepies\Dto\bin\Debug\net6.0\Dto.deps.json
+Z:\repos\Recepies\Dto\bin\Debug\net6.0\Dto.dll
+Z:\repos\Recepies\Dto\bin\Debug\net6.0\Dto.pdb
+Z:\repos\Recepies\Dto\bin\Debug\net6.0\DAL.dll
+Z:\repos\Recepies\Dto\bin\Debug\net6.0\DAL.pdb
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.dll
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\refint\Dto.dll
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.pdb
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\ref\Dto.dll
+Z:\repos\Recepies\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+Z:\repos\Recepies\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+Z:\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.deps.json
+Z:\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+Z:\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.dll
+Z:\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.pdb
+Z:\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\DAL.dll
+Z:\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\DAL.pdb
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.dll
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\refint\Dto.dll
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.pdb
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+Z:\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\ref\Dto.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.deps.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\Dto.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\DAL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\bin\Debug\net6.0\DAL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.csproj.Up2Date
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\refint\Dto.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\Dto\obj\Debug\net6.0\ref\Dto.dll

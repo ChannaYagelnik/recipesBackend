@@ -1,0 +1,56 @@
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\חני ויסבלום\source\repos\Recepies\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\repos\Recepies\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\repos\Recepies\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\repos\Recepies\DAL\bin\Debug\net6.0\DAL.dll
+Z:\repos\Recepies\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.dll
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\repos\Recepies\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.dll
+Z:\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.dll
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\bin\Debug\net6.0\DAL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.pdb
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\חני ויסבלום\webapi\מתכונים סופי\Recepies\DAL\obj\Debug\net6.0\ref\DAL.dll

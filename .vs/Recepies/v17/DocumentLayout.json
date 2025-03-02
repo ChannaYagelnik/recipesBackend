@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\func\\usr_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\func\\usr_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\models\\recepis_chaniwcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\recepis_chaniwcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\models\\recepy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\recepy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dto\\repository\\recepiy_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|solutionrelative:dto\\repository\\recepiy_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\interfaces\\irecpey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irecpey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\blll\\func_blll\\user_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|solutionrelative:blll\\func_blll\\user_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\blll\\func_blll\\recepies_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|solutionrelative:blll\\func_blll\\recepies_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\blll\\func_blll\\ingredientcrecepiy_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|solutionrelative:blll\\func_blll\\ingredientcrecepiy_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\blll\\func_blll\\ingredientce_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|solutionrelative:blll\\func_blll\\ingredientce_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\interfaces\\iingriduentce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iingriduentce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\wwwroot\\pic\\pic3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\pic\\pic3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\wwwroot\\pic\\pic5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\pic\\pic5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\wwwroot\\pic\\pic6.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\pic\\pic6.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\wwwroot\\pic\\pic4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\pic\\pic4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\controllers\\recepingridentccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\recepingridentccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\interfaces\\ingrientrecepies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ingrientrecepies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\models\\ingriduentce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\ingriduentce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dto\\repository\\recepiyingridentc_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|solutionrelative:dto\\repository\\recepiyingridentc_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dto\\myprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|solutionrelative:dto\\myprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\models\\ingridentcrecpey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\ingridentcrecpey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\func\\ingredients_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\func\\ingredients_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dto\\repository\\ingridentce_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF73AC3B-3FF6-4515-AF66-2E8EF5AAFBFE}|Dto\\Dto.csproj|solutionrelative:dto\\repository\\ingridentce_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\wwwroot\\pic\\pic2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\pic\\pic2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\wwwroot\\pic\\pic1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\pic\\pic1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\controllers\\recepiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\recepiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\func\\recpeyingredients_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\func\\recpeyingredients_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\dal\\func\\recpey_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22E72C-2DE7-4A74-A0E4-4C166EFBB7DC}|DAL\\DAL.csproj|solutionrelative:dal\\func\\recpey_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Controllers\\recepingridentcController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Controllers\\recepiyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\blll\\interfaces\\iingredientc_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|solutionrelative:blll\\interfaces\\iingredientc_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\controllers\\ingridentcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\ingridentcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\blll\\interfaces\\iingredientcrecepie_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48044DE4-46A6-4A87-BEE9-E83A2F3E0C5F}|BLLL\\BLLL.csproj|solutionrelative:blll\\interfaces\\iingredientcrecepie_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|d:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\recepies\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5AB30BAA-626B-497A-ABC8-9F5BB29011C4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ingriduentce.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\Ingriduentce.cs",
+              "RelativeDocumentMoniker": "DAL\\models\\Ingriduentce.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\Ingriduentce.cs",
+              "RelativeToolTip": "DAL\\models\\Ingriduentce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ingredientce_bll.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\ingredientce_bll.cs",
+              "RelativeDocumentMoniker": "BLLL\\func_blll\\ingredientce_bll.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\ingredientce_bll.cs",
+              "RelativeToolTip": "BLLL\\func_blll\\ingredientce_bll.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ingredientcrecepiy_bll.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\ingredientcrecepiy_bll.cs",
+              "RelativeDocumentMoniker": "BLLL\\func_blll\\ingredientcrecepiy_bll.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\ingredientcrecepiy_bll.cs",
+              "RelativeToolTip": "BLLL\\func_blll\\ingredientcrecepiy_bll.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user_bll.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\user_bll.cs",
+              "RelativeDocumentMoniker": "BLLL\\func_blll\\user_bll.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\user_bll.cs",
+              "RelativeToolTip": "BLLL\\func_blll\\user_bll.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAApwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usr_dal.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\usr_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\func\\usr_dal.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\usr_dal.cs",
+              "RelativeToolTip": "DAL\\func\\usr_dal.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAASwCIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recepis_chaniWContext.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\Recepis_chaniWContext.cs",
+              "RelativeDocumentMoniker": "DAL\\models\\Recepis_chaniWContext.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\Recepis_chaniWContext.cs",
+              "RelativeToolTip": "DAL\\models\\Recepis_chaniWContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.487Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recepy.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\Recepy.cs",
+              "RelativeDocumentMoniker": "DAL\\models\\Recepy.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\Recepy.cs",
+              "RelativeToolTip": "DAL\\models\\Recepy.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Iingriduentce.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\interfaces\\Iingriduentce.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\Iingriduentce.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\interfaces\\Iingriduentce.cs",
+              "RelativeToolTip": "DAL\\interfaces\\Iingriduentce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recepiy_dto.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\repository\\recepiy_dto.cs",
+              "RelativeDocumentMoniker": "Dto\\repository\\recepiy_dto.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\repository\\recepiy_dto.cs",
+              "RelativeToolTip": "Dto\\repository\\recepiy_dto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "pic4.jpg",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic4.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\pic\\pic4.jpg",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic4.jpg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\pic\\pic4.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T16:13:23.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "recepies_bll.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\recepies_bll.cs",
+              "RelativeDocumentMoniker": "BLLL\\func_blll\\recepies_bll.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\func_blll\\recepies_bll.cs",
+              "RelativeToolTip": "BLLL\\func_blll\\recepies_bll.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRecpey.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\interfaces\\IRecpey.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\IRecpey.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\interfaces\\IRecpey.cs",
+              "RelativeToolTip": "DAL\\interfaces\\IRecpey.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "recepingridentcController.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\recepingridentcController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\recepingridentcController.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\recepingridentcController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\recepingridentcController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IngrientRecepies.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\interfaces\\IngrientRecepies.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\IngrientRecepies.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\interfaces\\IngrientRecepies.cs",
+              "RelativeToolTip": "DAL\\interfaces\\IngrientRecepies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pic3.jpg",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic3.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\pic\\pic3.jpg",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic3.jpg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\pic\\pic3.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T16:13:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pic6.jpg",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic6.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\pic\\pic6.jpg",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic6.jpg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\pic\\pic6.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T16:13:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pic5.jpg",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic5.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\pic\\pic5.jpg",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic5.jpg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\pic\\pic5.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T16:13:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "myprofil.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\myprofil.cs",
+              "RelativeDocumentMoniker": "Dto\\myprofil.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\myprofil.cs",
+              "RelativeToolTip": "Dto\\myprofil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IngridentcRecpey.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\IngridentcRecpey.cs",
+              "RelativeDocumentMoniker": "DAL\\models\\IngridentcRecpey.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\models\\IngridentcRecpey.cs",
+              "RelativeToolTip": "DAL\\models\\IngridentcRecpey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ingredients_dal.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\ingredients_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\func\\ingredients_dal.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\ingredients_dal.cs",
+              "RelativeToolTip": "DAL\\func\\ingredients_dal.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "recepiyingridentc_dto.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\repository\\recepiyingridentc_dto.cs",
+              "RelativeDocumentMoniker": "Dto\\repository\\recepiyingridentc_dto.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\repository\\recepiyingridentc_dto.cs",
+              "RelativeToolTip": "Dto\\repository\\recepiyingridentc_dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ingridentce_dto.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\repository\\ingridentce_dto.cs",
+              "RelativeDocumentMoniker": "Dto\\repository\\ingridentce_dto.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Dto\\repository\\ingridentce_dto.cs",
+              "RelativeToolTip": "Dto\\repository\\ingridentce_dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "recepiyController.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\recepiyController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\recepiyController.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\recepiyController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\recepiyController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "pic2.jpg",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic2.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\pic\\pic2.jpg",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic2.jpg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\pic\\pic2.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T16:13:23.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "pic1.jpg",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic1.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\pic\\pic1.jpg",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\wwwroot\\pic\\pic1.jpg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\pic\\pic1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T16:13:23.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "recpeyingredients_dal.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\recpeyingredients_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\func\\recpeyingredients_dal.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\recpeyingredients_dal.cs",
+              "RelativeToolTip": "DAL\\func\\recpeyingredients_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "recpey_dal.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\recpey_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\func\\recpey_dal.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\DAL\\func\\recpey_dal.cs",
+              "RelativeToolTip": "DAL\\func\\recpey_dal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Iingredientc_bll.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\interfaces\\Iingredientc_bll.cs",
+              "RelativeDocumentMoniker": "BLLL\\interfaces\\Iingredientc_bll.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\interfaces\\Iingredientc_bll.cs",
+              "RelativeToolTip": "BLLL\\interfaces\\Iingredientc_bll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ingridentceController.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\ingridentceController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ingridentceController.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\Controllers\\ingridentceController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ingridentceController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Iingredientcrecepie_bll.cs",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\interfaces\\Iingredientcrecepie_bll.cs",
+              "RelativeDocumentMoniker": "BLLL\\interfaces\\Iingredientcrecepie_bll.cs",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\BLLL\\interfaces\\Iingredientcrecepie_bll.cs",
+              "RelativeToolTip": "BLLL\\interfaces\\Iingredientcrecepie_bll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:13:23.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\\u05D7\u05E0\u05D9 \u05D5\u05D9\u05E1\u05D1\u05DC\u05D5\u05DD\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T16:13:23.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "recepingridentcController.cs",
+              "DocumentMoniker": "Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Controllers\\recepingridentcController.cs",
+              "ToolTip": "Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Controllers\\recepingridentcController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T16:07:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Program.cs",
+              "ToolTip": "Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwBwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T16:07:34.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "recepiyController.cs",
+              "DocumentMoniker": "Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Controllers\\recepiyController.cs",
+              "ToolTip": "Z:\\webapi\\\u05DE\u05EA\u05DB\u05D5\u05E0\u05D9\u05DD \u05E1\u05D5\u05E4\u05D9\\Recepies\\Recepy\\Controllers\\recepiyController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T16:07:34.179Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
